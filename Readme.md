@@ -23,7 +23,7 @@
 
 <p align="center">
     <a href="https://compfest-podcast-generator-frontend.vercel.app/">
-      <img src="https://custom-icon-badges.demolab.com/badge/-Click%20Me%20to%20Visit%20Website-palegreen?style=for-the-badge&logoColor=white" title="Slides" alt="Slides"/></a>
+      <img src="https://custom-icon-badges.demolab.com/badge/-Click%20Me%20to%20Visit%20Website-palegreen?style=for-the-badge&logoColor=white" title="Kota Berbicara Website's" alt="Slides"/></a>
 </p>
 <p align="center">
   <a href="https://youtu.be/3oToZepB7tM">
