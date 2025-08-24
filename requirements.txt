@@ -1,0 +1,15 @@
+langchain-core
+langchain-google-genai
+langgraph
+mutagen
+python-dotenv
+fastapi
+uvicorn
+fastapi-cors
+firecrawl
+fastmcp
+langchain-mcp-adapters
+elevenlabs
+supabase
+pydantic
+typing-extensions
