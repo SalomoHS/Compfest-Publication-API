@@ -14,7 +14,7 @@
     <img alt="Langchain" src="https://custom-icon-badges.demolab.com/badge/Langgraph-2EAD33?logo=langchain&logoColor=fff"/>
   <img alt="FastApi" src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"/>
   <img alt="FastMCP" src="https://img.shields.io/badge/FastMCP-white.svg?logo=modelcontextprotocol&logoColor=black"/>
-  
+  <img alt="Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?logo=google%20gemini&logoColor=white"/>
    <img alt="ElevenLabs" src="https://img.shields.io/badge/ElevenLabs-black.svg?logo=elevenlabs&logoColor=white"/>
    <img alt="Supabase" src="https://custom-icon-badges.demolab.com/badge/Supabase-white?logo=supabase&logoColor=2EAD33"/>
    <img alt="Shotstack" src="https://img.shields.io/badge/Shotstack-22ADF6?&logo=InfluxDB&logoColor=white"/>
