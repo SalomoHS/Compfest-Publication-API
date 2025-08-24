@@ -31,6 +31,7 @@
   <a href="https://www.tiktok.com/@kotaberbicara">
       <img src="https://custom-icon-badges.demolab.com/badge/-Kota%20Berbicara%20Tiktok-black?style=for-the-badge&logo=TIktok&logoColor=white" title="Kota Berbicara tiktok's" alt="Kota Berbicara Titkok's"/></a>
 </p>
+
 --- 
 
 ### Deskripsi Tugas
