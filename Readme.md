@@ -17,6 +17,8 @@
   
    <img alt="ElevenLabs" src="https://img.shields.io/badge/ElevenLabs-black.svg?logo=elevenlabs&logoColor=white"/>
    <img alt="Supabase" src="https://custom-icon-badges.demolab.com/badge/Supabase-white?logo=supabase&logoColor=2EAD33"/>
+   <img alt="Shotstack" src="https://img.shields.io/badge/Shotstack-22ADF6?&logo=InfluxDB&logoColor=white"/>
+   <img alt="make" src="https://custom-icon-badges.demolab.com/badge/Make-6D00CC?logo=make&logoColor=fff"/>
 </p>
 
 <p align="center">
@@ -52,6 +54,14 @@ Backend ini bertugas untuk menangani proses publikasi konten podcast "Kota Berbi
 1. **MCP (Model Context Protocol) Server** -- Di dalam MCP terdapat tools untuk melakukan scraping portal berita detik.com untuk mendapatkan berita terkini dengan menggunakan firecrawl 
 2. **Terhubung ke sistem eksternal (elevenlabs, supabase, shotstack, dan make.com)** -- Backend terhubung ke berbagai sistem eksternal untuk mendukung publikasi konten "Kota Berbicara"
 
+---
+
+### Sistem eksternal 
+1. `Supabase` -- Sistem yang menyediakan layanan database berbasis PostgreSQL dan storage bucket.
+2. `Make.com` -- Sistem yang menyediakan layanan automasi.
+3. `Elevenlabs` -- Sistem yang menyediakan layanan membuat audio sintetis berbasis AI.
+4. `Shotstack` -- Sistem yang menyediakan layanan editing video berbasis API.
+   
 ---
 
 ### 📄 Deskripsi File
