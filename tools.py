@@ -109,6 +109,7 @@ async def insert_podcast(state):
                 'speaker1':speaker1Id.data[0]['speakerId'],
                 'speaker2':speaker2Id.data[0]['speakerId'],
                 'city':state['location'],
+                'url':state['parsed_ai_response']['news_url'],
                 'timezone':"WIB",
             })\
             .execute()
@@ -145,6 +146,7 @@ async def insert_podcast(state):
                     'speaker1':speaker1Id.data[0]['speakerId'],
                     'speaker2':speaker2Id.data[0]['speakerId'],
                     'city':state['location'],
+                    'url':state['parsed_ai_response']['news_url'],
                     'timezone':"WIB",
                 }).execute()
 
@@ -348,4 +350,5 @@ async def create_video(state):
 
 async def upload_to_tiktok(state):
     res = requests.get(os.getenv("MAKE_WEBHOOKS"))
+
     return {'request_to_make': str(res.status_code)}
